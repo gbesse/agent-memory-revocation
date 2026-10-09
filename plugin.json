@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "agent-memory-revocation",
+  "version": "0.1.0",
+  "description": "Auditez les copies / Audit copies / Audite copias",
+  "author": {
+    "name": "Guillaume Besse",
+    "url": "https://github.com/gbesse"
+  },
+  "homepage": "https://github.com/gbesse/agent-memory-revocation",
+  "repository": "https://github.com/gbesse/agent-memory-revocation",
+  "license": "MIT",
+  "keywords": ["agents", "mcp", "open-source"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "agent-memory-revocation",
+        "shortDescription": "Oubli / Forget / Olvido",
+        "longDescription": "Auditez les copies / Audit copies / Audite copias"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "artifacts": [{ "kind": "synthetic" }],
+  "untargetableEntryKeys": ["old-entry"],
+  "curatedWrites": [],
+  "refusals": [],
+  "sessionResolutions": [{ "id": "demo" }]
+}

@@ -1,0 +1,6 @@
+{
+  "source_id": "synthetic-client-1",
+  "needles": ["CANARY-CLIENT-1"],
+  "targets": [{ "name": "bruno-export", "path": "brain" }],
+  "openclaw_report": "openclaw-preview.json"
+}
